@@ -1,0 +1,2 @@
+pluginlib==0.9.1
+requests==2.31.0

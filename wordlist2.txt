@@ -1,0 +1,8 @@
+contacts
+feed
+home
+login
+artists
+AJAX/index
+xxx/index
+userinfo

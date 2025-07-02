@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="logo.png" alt="WebFuzzer Logo" width="250">
-</p>
-
 <h1 align="center">WebFuzzer 🕷️</h1>
 <p align="center">
   Um fuzzer modular e extensível para aplicações web, inspirado no ffuf.

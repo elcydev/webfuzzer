@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/804fa6e3-2814-4171-871f-245ebcbbad10)
-
 <p align="center">
   <img src="logo.png" alt="WebFuzzer Logo" width="250">
 </p>
